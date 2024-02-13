@@ -1,0 +1,16 @@
+S10000*The Sunsynk Hybrid Parity Inverter is a highly efficient power management tool that allows the user to hit those ‘parity’ targets by managing power coming from multiple sources such as solar, mains grid and generator and then effectively storing and releasing electric power as the utilities require.
+L10001*All solar products, power systems, water heating and gas products and their components must be installed by appropriately qualified personnel. All installations must adhere to local wiring regulations and standards. Sustainable Online will not be held liable for any product malfunctions as a result of incorrectly installed systems.
+H10004*The system makes use of photovoltaic technology and a unique PTC AC/DC element to heat the water in the geyser
+W10004*These water saving aerators save water and energy by producing forceful streams regardless of available water pressure at a reduced flow rate that minimizes the amount of energy needed to heat hot water & uses up to 60% less water.
+L10005*High, Low, Off and Emergency functions. It Switches on when power goes off. 
+G10006*The Irrigatia weather responsive SMART irrigation controllers uniquely use solar power to detect the weather and alter watering according to the conditions and the season.
+W10007*WaterLoo is a patented, easy-to-install and easy-to-use, lightweight and functional smart grey flush product that increases your toilet's capacity for grey water use
+E10007*Electrical saver it charge the you use it as a house battary
+E10008*Jackery Explorer 1000 provides power-to-go in a compact, lightweight design featuring multiple connections to charge your appliances, gear, devices and more. Use it indoors in your home or office as a back-up power supply, or take the Explorer 1000 with y
+E10008*Great effective way of powers saving 
+E10009*
+E10009*Portable compact AC power supply.
+S10009*Ultra-safe Lithium Iron Phosphate (LiFePO4) technology.
+S10009*Widely using of the most popular and mature type of modules for off-grid system.
+S10009*
+H10009*water heating battery

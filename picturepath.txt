@@ -1,0 +1,9 @@
+S10000*Pictures\HybridInverter.jpg
+L10001*Pictures\Lightbulb.jpg
+H10004*Pictures\geyser.jpg
+W10004*Pictures\TapAeratorInsert.jpg
+L10005*Pictures\RechargeableEmergencyLEDLight.jpg
+G10006*Pictures\AutomaticWateringSystem.jpg
+W10007*Pictures\WaterLooGreywaterFlushSystem.jpg
+E10007*Pictures\HybridInverter.jpg
+E10008*Pictures\JackeryExplorer.jpg
